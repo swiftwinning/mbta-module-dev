@@ -1,0 +1,5 @@
+custom_mbta_api_module.mbta-route-colors:
+  version: 1.x
+  css:
+    layout:
+      css/mbta-route-colors.css: {}

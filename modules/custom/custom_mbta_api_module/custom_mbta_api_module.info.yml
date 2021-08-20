@@ -1,0 +1,6 @@
+name: Custom MBTA API Module
+description: Custom module for using MBTA's route information API.
+package: Custom
+
+type: module
+core: 8.x
