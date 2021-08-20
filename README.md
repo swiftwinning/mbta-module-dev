@@ -1,10 +1,4 @@
-# Snapshot of MBTA API app project as of Aug. 18, 2021:
-
-Development will continue on the issues described below in a separate repository. 
-This repository will remain as a snapshot so that developers, project managers, clients, or other stakeholders have a common point of reference for discussion, without having to search back to previous commits in the active development repository.
-You should be able to build the app with the contents of 'mbta-composer-assets.zip' and running 'composer install' from root directory. The full app is also available in 'mbta-full-app-install.zip', or simply pulling it from GitHub. 
-
-# Primary issues and areas to refactor:
+# Primary issues and areas to refactor (as of Aug 20, 2021):
 
 ## Efficiency/performance of API requests:
 
